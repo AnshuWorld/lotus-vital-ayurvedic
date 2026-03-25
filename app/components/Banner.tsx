@@ -12,7 +12,7 @@ export default function Banner() {
                     <img src="/h.jpeg" className="object-cover w-full h-screen brightness-75 opacity-0" />
                     <div className="absolute inset-0 flex flex-row items-center justify-center text-center">
                         
-                        <div className="w-1/2 flex flex-col items-start text-left border-red-900">
+                        <div className="w-1/2 flex flex-col items-start text-center border-red-900">
                             <h1 className="text-7xl font-extrabold text-gray-700 ">“Timeless Remedies for Today’s Lifestyle"</h1>
                         </div>
                     </div>
